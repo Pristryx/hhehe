@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\210512A_APPSEC_ASSIGNMENT.props" />
+</Project>
